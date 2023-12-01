@@ -1,0 +1,18 @@
+{
+  "name": "advent-of-code-2023",
+  "module": "index.ts",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "prettier": "^3.1.0",
+    "vitest": "^0.34.6"
+  }
+}
